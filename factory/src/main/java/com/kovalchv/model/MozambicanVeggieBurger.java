@@ -1,4 +1,4 @@
 package com.kovalchv.model;
 
-public class MozambicanVeggieBurger {
+public class MozambicanVeggieBurger extends Hamburger {
 }

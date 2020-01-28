@@ -1,4 +1,4 @@
 package com.kovalchv.model;
 
-public class BunLessBurger {
+public class BunLessBurger extends Hamburger {
 }

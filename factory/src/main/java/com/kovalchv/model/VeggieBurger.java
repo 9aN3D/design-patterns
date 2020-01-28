@@ -1,5 +1,5 @@
 package com.kovalchv.model;
 
-public class VeggieBurger {
+public class VeggieBurger extends Hamburger {
 
 }
